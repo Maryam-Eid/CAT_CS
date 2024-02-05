@@ -1,0 +1,6 @@
+# ninja log v5
+2	245	7287888756561887	CMakeFiles/CAT_CS.dir/Week01/Vector/5Medium.cpp.obj	fd0844bd8038a99e
+245	320	7287888757256232	CAT_CS.exe	71c53312e5db2a2f
+3	440	7287851634933780	CMakeFiles/CAT_CS.dir/main.cpp.obj	a3bee3db6d71981
+0	139	7287898580509283	build.ninja	fa51383958c93fb5
+5	283	7287877332018198	CMakeFiles/CAT_CS.dir/Week01/Vector/Vector.cpp.obj	fffa264f968e1fc9
