@@ -61,6 +61,18 @@ build CMakeFiles/CAT_CS.dir/Week01/Vector/Vector.cpp.obj: CXX_COMPILER__CAT_CS_u
   OBJECT_DIR = CMakeFiles\CAT_CS.dir
   OBJECT_FILE_DIR = CMakeFiles\CAT_CS.dir\Week01\Vector
 
+build CMakeFiles/CAT_CS.dir/Week02/SLL/SLL.cpp.obj: CXX_COMPILER__CAT_CS_unscanned_Debug C$:/Users/HP/CLionProjects/CAT_CS/Week02/SLL/SLL.cpp || cmake_object_order_depends_target_CAT_CS
+  DEP_FILE = CMakeFiles\CAT_CS.dir\Week02\SLL\SLL.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CAT_CS.dir
+  OBJECT_FILE_DIR = CMakeFiles\CAT_CS.dir\Week02\SLL
+
+build CMakeFiles/CAT_CS.dir/Week02/test.cpp.obj: CXX_COMPILER__CAT_CS_unscanned_Debug C$:/Users/HP/CLionProjects/CAT_CS/Week02/test.cpp || cmake_object_order_depends_target_CAT_CS
+  DEP_FILE = CMakeFiles\CAT_CS.dir\Week02\test.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CAT_CS.dir
+  OBJECT_FILE_DIR = CMakeFiles\CAT_CS.dir\Week02
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CAT_CS
@@ -69,7 +81,7 @@ build CMakeFiles/CAT_CS.dir/Week01/Vector/Vector.cpp.obj: CXX_COMPILER__CAT_CS_u
 #############################################
 # Link the executable CAT_CS.exe
 
-build CAT_CS.exe: CXX_EXECUTABLE_LINKER__CAT_CS_Debug CMakeFiles/CAT_CS.dir/Week01/Vector/5Medium.cpp.obj CMakeFiles/CAT_CS.dir/Week01/Vector/Vector.cpp.obj
+build CAT_CS.exe: CXX_EXECUTABLE_LINKER__CAT_CS_Debug CMakeFiles/CAT_CS.dir/Week01/Vector/5Medium.cpp.obj CMakeFiles/CAT_CS.dir/Week01/Vector/Vector.cpp.obj CMakeFiles/CAT_CS.dir/Week02/SLL/SLL.cpp.obj CMakeFiles/CAT_CS.dir/Week02/test.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CAT_CS.dir

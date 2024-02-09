@@ -53,7 +53,9 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1
+				1,
+				3,
+				4
 			]
 		}
 	],
@@ -91,7 +93,16 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1
+				1,
+				3,
+				4
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2
 			]
 		}
 	],
@@ -107,6 +118,23 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Week01/Vector/Vector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Week02/SLL/SLL.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Week02/SLL/SLL.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Week02/test.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
