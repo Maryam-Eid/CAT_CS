@@ -8,4 +8,10 @@ add_executable(CAT_CS
         Week01/Vector/Vector.cpp
         Week02/SLL/SLL.h
         Week02/SLL/SLL.cpp
-        Week02/test.cpp)
+        Week02/test.cpp
+        Graph/Q1.cpp
+        Graph/Q2.cpp
+        Graph/Q3.cpp
+        Graph/Q4.cpp
+        Graph/Q5.cpp
+        Graph/Q6.cpp)
