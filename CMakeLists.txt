@@ -14,4 +14,10 @@ add_executable(CAT_CS
         Graph/Q3.cpp
         Graph/Q4.cpp
         Graph/Q5.cpp
-        Graph/Q6.cpp)
+        Graph/Q6.cpp
+        "Hash Table/Hash.h"
+        "Hash Table/Hash.cpp"
+        "Hash Table/PhoneHashTable.h"
+        "Hash Table/PhoneHashTable.cpp"
+        "Hash Table/PhoneHashTableLL.h"
+        "Hash Table/Homework02.cpp")
