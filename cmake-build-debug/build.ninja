@@ -127,6 +127,12 @@ build CMakeFiles/CAT_CS.dir/Hash_Table/Homework02.cpp.obj: CXX_COMPILER__CAT_CS_
   OBJECT_DIR = CMakeFiles\CAT_CS.dir
   OBJECT_FILE_DIR = CMakeFiles\CAT_CS.dir\Hash_Table
 
+build CMakeFiles/CAT_CS.dir/Binary_Tree/BinaryTree.cpp.obj: CXX_COMPILER__CAT_CS_unscanned_Debug C$:/Users/HP/CLionProjects/CAT_CS/Binary$ Tree/BinaryTree.cpp || cmake_object_order_depends_target_CAT_CS
+  DEP_FILE = CMakeFiles\CAT_CS.dir\Binary_Tree\BinaryTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CAT_CS.dir
+  OBJECT_FILE_DIR = CMakeFiles\CAT_CS.dir\Binary_Tree
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CAT_CS
@@ -135,7 +141,7 @@ build CMakeFiles/CAT_CS.dir/Hash_Table/Homework02.cpp.obj: CXX_COMPILER__CAT_CS_
 #############################################
 # Link the executable CAT_CS.exe
 
-build CAT_CS.exe: CXX_EXECUTABLE_LINKER__CAT_CS_Debug CMakeFiles/CAT_CS.dir/Week01/Vector/5Medium.cpp.obj CMakeFiles/CAT_CS.dir/Week01/Vector/Vector.cpp.obj CMakeFiles/CAT_CS.dir/Week02/SLL/SLL.cpp.obj CMakeFiles/CAT_CS.dir/Week02/test.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q1.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q2.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q3.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q4.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q5.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q6.cpp.obj CMakeFiles/CAT_CS.dir/Hash_Table/Hash.cpp.obj CMakeFiles/CAT_CS.dir/Hash_Table/PhoneHashTable.cpp.obj CMakeFiles/CAT_CS.dir/Hash_Table/Homework02.cpp.obj
+build CAT_CS.exe: CXX_EXECUTABLE_LINKER__CAT_CS_Debug CMakeFiles/CAT_CS.dir/Week01/Vector/5Medium.cpp.obj CMakeFiles/CAT_CS.dir/Week01/Vector/Vector.cpp.obj CMakeFiles/CAT_CS.dir/Week02/SLL/SLL.cpp.obj CMakeFiles/CAT_CS.dir/Week02/test.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q1.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q2.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q3.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q4.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q5.cpp.obj CMakeFiles/CAT_CS.dir/Graph/Q6.cpp.obj CMakeFiles/CAT_CS.dir/Hash_Table/Hash.cpp.obj CMakeFiles/CAT_CS.dir/Hash_Table/PhoneHashTable.cpp.obj CMakeFiles/CAT_CS.dir/Hash_Table/Homework02.cpp.obj CMakeFiles/CAT_CS.dir/Binary_Tree/BinaryTree.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CAT_CS.dir

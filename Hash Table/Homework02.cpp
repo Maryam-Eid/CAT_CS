@@ -73,3 +73,4 @@ int count_anagram_substrings(const string &str) {
 int main() {
     cout << count_anagram_substrings("aaaaa");
 }
+

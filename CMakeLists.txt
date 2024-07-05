@@ -20,4 +20,6 @@ add_executable(CAT_CS
         "Hash Table/PhoneHashTable.h"
         "Hash Table/PhoneHashTable.cpp"
         "Hash Table/PhoneHashTableLL.h"
-        "Hash Table/Homework02.cpp")
+        "Hash Table/Homework02.cpp"
+        "Binary Tree/BinaryTree.h"
+        "Binary Tree/BinaryTree.cpp")
